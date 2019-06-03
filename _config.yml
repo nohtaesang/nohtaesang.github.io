@@ -40,3 +40,8 @@ permalink: /:categories/:title/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+sass:
+  sass_dir: assets/css
+  style: compressed
