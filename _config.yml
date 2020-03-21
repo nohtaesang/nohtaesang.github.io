@@ -93,9 +93,9 @@ analytics:
 # Site Author
 author:
   name: "TaeSang Noh"
-  avatar: "/assets/images/bio01.jpeg"
+  avatar: "/assets/images/bio02.jpeg"
   bio: "FE-Engineer"
-  location: "Seoul, Yeoido"
+  location: "Yeoido, Seoul"
   email: "nohtaesang@naver.com"
   links:
     - label: "Email"
