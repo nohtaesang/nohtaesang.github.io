@@ -1,6 +1,6 @@
 # main links
 main:
   - title: "Home"
-    url: https://nohtaesang.github.io
+    url: /
   - title: "Category"
-    url: https://nohtaesang.guthub.io/categories
+    url: /categories/
