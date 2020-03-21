@@ -98,14 +98,10 @@ author:
   location: "Yeoido, Seoul"
   email: "nohtaesang@naver.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:nohtaesang@naver.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nohtaesang"
     - label: "Company"
-      # icon: "fab fa-fw fa-twitter-square"
       url: "https://www.superb-ai.com/"
 
 # Site Footer
@@ -113,7 +109,6 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nohtaesang"
 
 # Reading Files
 include:
