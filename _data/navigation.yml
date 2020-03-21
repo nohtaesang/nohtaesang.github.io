@@ -2,3 +2,5 @@
 main:
   - title: "Home"
     url: https://nohtaesang.github.io
+  - title: "Category"
+    url: https://nohtaesang.guthub.io/categories
